@@ -3,18 +3,44 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asmodat Bitbucket", "Asmodat Bitbucket\Asmodat Bitbucket.csproj", "{06945C69-C131-4236-9E40-94D48137B195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asmodat Bitbucket", "Asmodat Bitbucket\Asmodat Bitbucket.csproj", "{06945C69-C131-4236-9E40-94D48137B195}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asmodat Standard", "..\Asmodat-Standard\Asmodat Standard\Asmodat Standard.csproj", "{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asmodat Standard Test", "..\Asmodat-Standard\Asmodat Standard Test\Asmodat Standard Test.csproj", "{1FD18498-2F7B-42DC-B07F-EE28E566F413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{06945C69-C131-4236-9E40-94D48137B195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{06945C69-C131-4236-9E40-94D48137B195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06945C69-C131-4236-9E40-94D48137B195}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06945C69-C131-4236-9E40-94D48137B195}.Debug|x64.Build.0 = Debug|Any CPU
 		{06945C69-C131-4236-9E40-94D48137B195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06945C69-C131-4236-9E40-94D48137B195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06945C69-C131-4236-9E40-94D48137B195}.Release|x64.ActiveCfg = Release|Any CPU
+		{06945C69-C131-4236-9E40-94D48137B195}.Release|x64.Build.0 = Release|Any CPU
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Debug|x64.ActiveCfg = Debug|x64
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Debug|x64.Build.0 = Debug|x64
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Release|x64.ActiveCfg = Release|x64
+		{014DA268-7B48-4D2B-BABB-70D9B1DFBD90}.Release|x64.Build.0 = Release|x64
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Debug|x64.ActiveCfg = Debug|x64
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Debug|x64.Build.0 = Debug|x64
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Release|x64.ActiveCfg = Release|x64
+		{1FD18498-2F7B-42DC-B07F-EE28E566F413}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\bin\release\netstandard2.0\osx-x64\Asmodat Bitbucket.deps.json
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\bin\release\netstandard2.0\osx-x64\Asmodat Bitbucket.dll
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\bin\release\netstandard2.0\osx-x64\Asmodat Bitbucket.pdb
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\bin\release\netstandard2.0\osx-x64\AsmodatStandard.dll
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\bin\release\netstandard2.0\osx-x64\AsmodatStandard.pdb
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\obj\release\netstandard2.0\osx-x64\Asmodat Bitbucket.csproj.CoreCompileInputs.cache
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\obj\release\netstandard2.0\osx-x64\Asmodat Bitbucket.AssemblyInfoInputs.cache
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\obj\release\netstandard2.0\osx-x64\Asmodat Bitbucket.AssemblyInfo.cs
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\obj\release\netstandard2.0\osx-x64\Asmodat Bitbucket.csproj.CopyComplete
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\obj\release\netstandard2.0\osx-x64\Asmodat Bitbucket.dll
+C:\Users\asmodat\Documents\Visual Studio 2017\Projects\Asmodat Bitbucket\Asmodat Bitbucket\obj\release\netstandard2.0\osx-x64\Asmodat Bitbucket.pdb
